@@ -1,0 +1,33 @@
+﻿生成启动时间为 2019/5/15 10:00:36。
+     1>项目“D:\ty\增益率\增益率\Bilateral - vedio\Bilateral\Bilateral.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (BilateralVedio.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         D:\Program Files (x86)\visualstudio2015\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /openmp /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\program files\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\ty\增益率\增益率\bilateral - vedio\bilateral\libdensecrf\permutohedral.h(453): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>d:\ty\增益率\增益率\bilateral - vedio\bilateral\libdensecrf\permutohedral.h(500): warning C4244: “=”: 从“float”转换到“short”，可能丢失数据
+     1>d:\ty\增益率\增益率\bilateral - vedio\bilateral\main.cpp(432): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\ty\增益率\增益率\bilateral - vedio\bilateral\main.cpp(613): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>d:\ty\增益率\增益率\bilateral - vedio\bilateral\main.cpp(617): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>d:\ty\增益率\增益率\bilateral - vedio\bilateral\main.cpp(490): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+       Link:
+         D:\Program Files (x86)\visualstudio2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ty\增益率\增益率\Bilateral - vedio\x64\Debug\Bilateral.exe" /INCREMENTAL /NOLOGO opencv_world310.lib opencv_world310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\ty\增益率\增益率\Bilateral - vedio\x64\Debug\Bilateral.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ty\增益率\增益率\Bilateral - vedio\x64\Debug\Bilateral.lib" /MACHINE:X64 x64\Debug\Bilateral.obj
+         x64\Debug\BilateralSimple.obj
+         x64\Debug\GMM.obj
+         x64\Debug\bipartitedensecrf.obj
+         x64\Debug\densecrf.obj
+         x64\Debug\filter.obj
+         x64\Debug\permutohedral.obj
+         x64\Debug\util.obj
+         x64\Debug\main.obj
+         x64\Debug\slic.obj
+         Bilateral.vcxproj -> D:\ty\增益率\增益率\Bilateral - vedio\x64\Debug\Bilateral.exe
+     1>已完成生成项目“D:\ty\增益率\增益率\Bilateral - vedio\Bilateral\Bilateral.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.26
