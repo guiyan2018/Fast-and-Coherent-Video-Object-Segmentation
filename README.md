@@ -22,7 +22,7 @@ Yan Gui, Ying Tan, Dao-Jian Zeng, Zhi-Feng Xie and Yi-Yu Cai: "Reliable and Dyna
 Please cite 'DAVIS' in your publications if it helps your research.
 
 
-You can use these codes for scientific purposes only. Use in commercial projects and redistribution are not allowed without author's permission. Please cite () when using this code. 
+You can use these codes for scientific purposes only. Use in commercial projects and redistribution are not allowed without author's permission. Please cite (https://github.com/guiyan2018/Fast-and-Coherent-Video-Object-Segmentation.git) when using this code. 
 
 ====================================================
 
