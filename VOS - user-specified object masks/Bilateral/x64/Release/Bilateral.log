@@ -1,0 +1,37 @@
+﻿生成启动时间为 2019/10/12 21:15:47。
+     1>项目“C:\Users\guiyan\Desktop\Video_Object_Segmentation_Code\5.D_C_H(E1)\VOS - user-specified object masks\Bilateral\Bilateral.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\vs2015\VC\bin\x86_amd64\CL.exe /c /ID:\Qt5.9.2\5.9.2\msvc2015_64\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /openmp /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>D:\Program Files\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\Program Files\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\Program Files\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\Program Files\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\users\guiyan\desktop\video_object_segmentation_code\5.d_c_h(e1)\vos - user-specified object masks\bilateral\libdensecrf\permutohedral.h(453): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\guiyan\desktop\video_object_segmentation_code\5.d_c_h(e1)\vos - user-specified object masks\bilateral\libdensecrf\permutohedral.h(500): warning C4244: “=”: 从“float”转换到“short”，可能丢失数据
+     1>main.cpp(426): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(510): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>main.cpp(514): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+       Link:
+         D:\Program Files\vs2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\guiyan\Desktop\Video_Object_Segmentation_Code\5.D_C_H(E1)\VOS - user-specified object masks\x64\Release\Bilateral.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:D:\Qt5.9.2\5.9.2\msvc2015_64\lib opencv_world310.lib opencv_world310d.lib Qt5Core.lib Qt5Cored.lib Qt5Gui.lib Qt5Guid.lib Qt5Widgets.lib Qt5Xml.lib MSVCRT.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\guiyan\Desktop\Video_Object_Segmentation_Code\5.D_C_H(E1)\VOS - user-specified object masks\x64\Release\Bilateral.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\guiyan\Desktop\Video_Object_Segmentation_Code\5.D_C_H(E1)\VOS - user-specified object masks\x64\Release\Bilateral.lib" /MACHINE:X64 x64\Release\Bilateral.obj
+         x64\Release\BilateralSimple.obj
+         x64\Release\GMM.obj
+         x64\Release\bipartitedensecrf.obj
+         x64\Release\densecrf.obj
+         x64\Release\filter.obj
+         x64\Release\permutohedral.obj
+         x64\Release\util.obj
+         x64\Release\main.obj
+         x64\Release\slic.obj
+           正在创建库 C:\Users\guiyan\Desktop\Video_Object_Segmentation_Code\5.D_C_H(E1)\VOS - user-specified object masks\x64\Release\Bilateral.lib 和对象 C:\Users\guiyan\Desktop\Video_Object_Segmentation_Code\5.D_C_H(E1)\VOS - user-specified object masks\x64\Release\Bilateral.exp
+         正在生成代码
+         1 of 1150 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         已完成代码的生成
+         Bilateral.vcxproj -> C:\Users\guiyan\Desktop\Video_Object_Segmentation_Code\5.D_C_H(E1)\VOS - user-specified object masks\x64\Release\Bilateral.exe
+     1>已完成生成项目“C:\Users\guiyan\Desktop\Video_Object_Segmentation_Code\5.D_C_H(E1)\VOS - user-specified object masks\Bilateral\Bilateral.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.98
