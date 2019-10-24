@@ -14,7 +14,7 @@ Yan Gui, Ying Tan, Dao-Jian Zeng, Zhi-Feng Xie and Yi-Yu Cai: "Reliable and Dyna
 
 3. Clone "VOS - user-specified object masks" to your local, and run "Bilateral.sln". Here, we require the user to provide a pixel-wise segmentation on a few keyframes for initialization.
 
-4. Clone "Ablation Study" to your local. Here, the codes are the implementation of the ablation variants of our method.
+4. Clone "Ablation Study" to your local. Here, the codes are the C++ implementation of the ablation variants of our method.
 
 5. Clone "Evaluation" to your local. Here, this Package contains the Matlab implementation of the code behind: 
 *A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation* 
