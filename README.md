@@ -21,7 +21,7 @@ Yan Gui, Ying Tan, Dao-Jian Zeng, Zhi-Feng Xie and Yi-Yu Cai: "Reliable and Dyna
 [DAVIS](https://graphics.ethz.ch/~perazzif/davis/index.html). 
 Please cite 'DAVIS' in your publications if it helps your research.
 
-6. Clone "Suppemental materials" to your local. Here, this package contains detailed quantitative results on three benchmark datasets. 
+6. Clone "Suppemental materials" to your local. Here, this package contains detailed quantitative results on three benchmark datasets, including DAVIS 2016, YouTube-Objects and SegTrack v2. 
 
 
 You can use these codes for scientific purposes only. Use in commercial projects and redistribution are not allowed without author's permission. Please cite (https://github.com/guiyan2018/Fast-and-Coherent-Video-Object-Segmentation.git) when using this code. 
