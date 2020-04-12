@@ -6,7 +6,7 @@ README (13/10/2019)
 -------------------------------------------------------------------------
 
 This code is a simplified implementation of the video object segmentation method described in the following paper: 
-Yan Gui, Ying Tan, Dao-Jian Zeng, Zhi-Feng Xie and Yi-Yu Cai: "Reliable and Dynamic Appearance Modeling and Label Consistency Enforcing for Fast and Coherent Video Object Segmentation with the Bilateral Grid", Aug. 2019.
+Yan Gui, Ying Tan, Dao-Jian Zeng, Zhi-Feng Xie and Yi-Yu Cai: Reliable and Dynamic Appearance Modeling and Label Consistency Enforcing for Fast and Coherent Video Object Segmentation with the Bilateral Grid, 2019, DOI: 10.1109/TCSVT.2019.2961267.
 
 1. We implemented our prototype system with  C++ and the OpenCV 3.1.0 library. 
    
